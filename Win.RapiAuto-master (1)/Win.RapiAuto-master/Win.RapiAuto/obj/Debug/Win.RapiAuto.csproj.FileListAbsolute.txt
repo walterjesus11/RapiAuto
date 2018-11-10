@@ -1,0 +1,42 @@
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CopyComplete
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Jorge Saravia\Desktop\Proyecto Progra 3\New folder\Win.RapiAuto\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe.config
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\Win.RapiAuto.pdb
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.dll
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.pdb
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\BL.RapiAuto.dll.config
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.xml
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csprojAssemblyReference.cache
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formClientes.resources
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formLogin.resources
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formMenu.resources
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.formVehiculos.resources
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.Properties.Resources.resources
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.GenerateResource.cache
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.csproj.CopyComplete
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.exe
+C:\Users\Jorge Saravia\Documents\iconos walter\Win.RapiAuto-master (1)\Win.RapiAuto-master\Win.RapiAuto\obj\Debug\Win.RapiAuto.pdb
